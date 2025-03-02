@@ -21,6 +21,7 @@ public class CollectionFrameworkDay2 {
         if(value!=null){
             return true;
         }
+        int a =23;
         return false;
     }
     private static void home(){

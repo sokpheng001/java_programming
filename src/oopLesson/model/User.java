@@ -1,11 +1,9 @@
-package classAndObjectLesson.model;
+package oopLesson.model;
 
 import lombok.*;
 
-
 @Data
 @RequiredArgsConstructor
-
 public class User {
     private Integer id;
     private String name;
